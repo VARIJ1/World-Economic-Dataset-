@@ -10,6 +10,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 
 ## Formating and Data Processing Steps : [Processed Solution](https://docs.google.com/spreadsheets/d/14B7R95CfDIaYdKh9VpwOe6ImL9gAy88e/edit#gid=1309026418)  
 
+
 1: Rearranged the columns in all sheets where I bring all the common columns as the first three columns of the individual sheet.
 
 2: Then performed formatting on each sheet to make it presentable and understandable.
