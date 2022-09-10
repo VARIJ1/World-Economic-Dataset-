@@ -9,6 +9,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 ## Steps that I followed :
 
 ## Formating and Data Processing Steps :
+
 1: Rearranged the columns in all sheets where I bring all the common columns as the first three columns of the individual sheet.
 2: Then performed formatting on each sheet to make it presentable and understandable.
 3.	Concatenate country region with year to make one lookup value for VLOOK UP Operation.
@@ -29,6 +30,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 8.	Use engineering features to add required columns to the data based on the data available.
 
 ## Data Analysis 
+
 Find individual features and study their distribution in the dataset. Further, analyse how they impact the GDP column (like how Lending Interest affects GDP ) and
 develop factors that affect a country's GDP.
 Performed Uni Variate and Bi Variate Analysis due to which I was able to find the Factors that are Affecting GDP :
