@@ -22,16 +22,6 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 	
 6.	While analyzing the data, I found that following countries have very less data/ no data available. So it is better to remove these rows. In total I deleted 401 rows as they will lead distraction in the data. One major reason is they have all the 12 years data blank. Even if we fill them with mean/ median, all the years will show same result. Hence, no effect on the data. 
 
-(a)	American Samoa-Oceania
-(b)	Cayman Islands-The Americas
-(c)	Curacao-The Americas
-(d)	Faeroe Islands-Europe
-(e)	Greenland-The Americas
-(f)	Guam-Oceania
-(g)	Isle of Man-Europe
-(h)	Sint Maarten (Dutch part)-The Americas
-(i)	St. Martin (French part)-The Americas
-(j)	Turks and Caicos Islands-The Americas
 
 7.	Now handle missing values of all the columns using standard deviation method. 
 	
