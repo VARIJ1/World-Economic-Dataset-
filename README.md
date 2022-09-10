@@ -10,21 +10,21 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 
 ## Formating and Data Processing Steps : [Processed Solution](https://docs.google.com/spreadsheets/d/14B7R95CfDIaYdKh9VpwOe6ImL9gAy88e/edit#gid=1309026418)  
 
-    1: Rearranged the columns in all sheets where I bring all the common columns as the first three columns of the individual sheet.
+1: Rearranged the columns in all sheets where I bring all the common columns as the first three columns of the individual sheet.
 
-    2: Then performed formatting on each sheet to make it presentable and understandable.
+2: Then performed formatting on each sheet to make it presentable and understandable.
 
-    3. Concatenate country region with year to make one lookup value for VLOOK UP Operation.
-	
-    4. Merge all the sheets using VLOOKUP function as country region with year column as lookup value.
-	
-    5. Empty all the cell values where you get N/A after VLOOKUP so that we know that other sheets are not having that value and we can analyze data accordingly to            handle missing values. 
-	
-    6. While analyzing the data, I found that following countries have very less data/ no data available. So it is better to remove these rows. In total I deleted 401        rows as they will lead distraction in the data. One major reason is they have all the 12 years data blank. Even if we fill them with mean/ median, all the years        will show same result. Hence, no effect on the data. 
+3. Concatenate country region with year to make one lookup value for VLOOK UP Operation.
 
-    7. Now handle missing values of all the columns using standard deviation method. 
-	
-    8. Use engineering features to add required columns to the data based on the data available.
+4. Merge all the sheets using VLOOKUP function as country region with year column as lookup value.
+
+5. Empty all the cell values where you get N/A after VLOOKUP so that we know that other sheets are not having that value and we can analyze data accordingly to            handle missing values. 
+
+6. While analyzing the data, I found that following countries have very less data/ no data available. So it is better to remove these rows. In total I deleted 401        rows as they will lead distraction in the data. One major reason is they have all the 12 years data blank. Even if we fill them with mean/ median, all the years        will show same result. Hence, no effect on the data. 
+ 
+7. Now handle missing values of all the columns using standard deviation method. 
+
+8. Use engineering features to add required columns to the data based on the data available.
 
 ## Data Analysis : [Analyzed Solution](https://docs.google.com/spreadsheets/d/1wjyQfm3oS3rawAGBE2R94SfKl0YWTPnL/edit#gid=315307772)
 
