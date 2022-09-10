@@ -29,7 +29,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 
 ## Data Analysis : [Analyzed Solution](https://docs.google.com/spreadsheets/d/1wjyQfm3oS3rawAGBE2R94SfKl0YWTPnL/edit#gid=315307772)
 
-1: Find individual features and study their distribution in the dataset. Further, analyse how they impact the GDP column (like how Lending Interest affects GDP ) and
+1: Find individual features and study their distribution in the dataset. Further, analyse how they impact the GDP column (like how Lending Interest affects GDP) and
 develop factors that affect a country's GDP.
 
 2: Performed Uni Variate and Bi Variate Analysis due to which I was able to find the Factors that are Affecting GDP :
