@@ -8,7 +8,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 
 ## Steps that I followed :
 
-## Formating and Data Processing Steps :
+## Formating and Data Processing Steps : [Processed Solution](https://docs.google.com/spreadsheets/d/14B7R95CfDIaYdKh9VpwOe6ImL9gAy88e/edit#gid=1309026418)  
 
 1: Rearranged the columns in all sheets where I bring all the common columns as the first three columns of the individual sheet.
 
@@ -26,7 +26,7 @@ The dataset ( World Economic Indicator), which has different countries' and regi
 	
 8. Use engineering features to add required columns to the data based on the data available.
 
-## Data Analysis 
+## Data Analysis : [Analyzed Solution](https://docs.google.com/spreadsheets/d/1wjyQfm3oS3rawAGBE2R94SfKl0YWTPnL/edit#gid=315307772)
 
 1: Find individual features and study their distribution in the dataset. Further, analyse how they impact the GDP column (like how Lending Interest affects GDP ) and
 develop factors that affect a country's GDP.
