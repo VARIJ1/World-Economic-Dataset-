@@ -39,10 +39,15 @@ Performed Uni Variate and Bi Variate Analysis due to which I was able to find th
 
 
 A) Health Sector
+
 B) Lending Interest rate
+
 C) Population and Birth rate
+
 D) Energy Usage
+
 E) Tourism Sector
+
 F) Business and technology sector 
 
 ## Therefore A Country can attain Sustainable Growth by Foccusing on these Factors.
